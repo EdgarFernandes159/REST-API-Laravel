@@ -13,7 +13,7 @@ A Rest API implemented on laravel that includ a CRUD.
 The project include the following models:
 
 <div align="center">
-    <a href="#">
+    <a href="https://github.com/peixecozid0">
         <img alt="GamesTable" src="https://i.imgur.com/E32Zmmm.png">
         <img align="top" alt="GenresTable" src="https://i.imgur.com/7khyPsL.png">
         <img align="top" alt="PlatformTable" src="https://i.imgur.com/vDr8nwp.png">
