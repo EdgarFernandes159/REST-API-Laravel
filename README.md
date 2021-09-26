@@ -21,6 +21,62 @@ The project include the following models:
     </a>
 </div>
 
+```json
+[
+    {
+        "id" : 1,
+        "title": "Resident evil 7",
+        "released": "24 de janeiro de 2017",
+        "director": "Koshi Nakanishi",
+        "genres": [
+        {
+            "id": 1,
+            "name": "Adventure",
+            "created_at": "2021-01-17 16:23:31",
+            "updated_at": "2021-01-17 16:23:31",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "Drama",
+            "created_at": "2021-01-17 16:23:31",
+            "updated_at": "2021-01-17 16:23:31",
+            "deleted_at": null
+        }
+        ],
+        "platforms": [
+        {
+            "id": 1,
+            "name": "XBOX One",
+            "created_at": "2021-01-17 16:23:31",
+            "updated_at": "2021-01-17 16:23:31",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "PS5",
+            "created_at": "2021-01-17 16:23:31",
+            "updated_at": "2021-01-17 16:23:31",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "name": "PC",
+            "created_at": "2021-01-17 16:23:31",
+            "updated_at": "2021-01-17 16:23:31",
+            "deleted_at": null
+        }
+        ],
+        "critic_score": 771.332,
+        "user_score": 771.332,
+        "created_at": "2021-01-17 16:23:31",
+        "updated_at": "2021-01-17 16:23:31",
+        "deleted_at": null
+    }
+]
+```
+
+
 # How to install the project
 
 ```bash
