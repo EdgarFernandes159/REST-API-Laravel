@@ -82,7 +82,9 @@ The project include the following models:
 ```bash
 cp .env.example .env
 composer install
+php artisan key:generate
 php artisan migrate:fresh --seed
+php artisan serve
 ```
 Don´t forget to insert your DB_DATABASE name on .env file
 
